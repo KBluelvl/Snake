@@ -20,4 +20,4 @@ This project was developed using JavaFX to hone Java GUI development skills whil
 Have fun playing Snake, and enjoy your JavaFX development journey! ☕️
 
 ## Screenshot
-![screen1](https://github.com/KBluelvl/snake/blob/main/image/screen1.PNG)
+<img src="https://github.com/KBluelvl/snake/blob/main/image/screen1.PNG" width="300">
