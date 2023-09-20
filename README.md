@@ -18,3 +18,6 @@ This project was developed using JavaFX to hone Java GUI development skills whil
 4. Use arrow keys to guide the snake and collect apples.
 
 Have fun playing Snake, and enjoy your JavaFX development journey! ☕️
+
+## Screenshot
+![screen1](https://github.com/KBluelvl/snake/blob/main/image/screen1.PNG)
