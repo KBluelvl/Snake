@@ -3,6 +3,7 @@ This project is an implementation of the classic Snake game in Java, inspired by
 
 1. [About](#About)
 2. [How to Play](#How-to-Play)
+3. [Screenshot](#Screenshot)
 
 ## About
 This project was developed using JavaFX to hone Java GUI development skills while recreating the nostalgic experience.
