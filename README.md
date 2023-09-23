@@ -1,8 +1,9 @@
 # snake
-This project is an implementation of the classic Snake game in Java, inspired by Mahmoud Hamwi's tutorial available on YouTube : [Snake Game Tutorial](https://www.youtube.com/watch?v=H9WjCyPFOug).
+This project is an implementation of the classic Snake game in Java, inspired by Mahmoud Hamwi's tutorial on YouTube : [Snake Game Tutorial](https://www.youtube.com/watch?v=H9WjCyPFOug).
 
 1. [About](#About)
 2. [How to Play](#How-to-Play)
+3. [Screenshot](#Screenshot)
 
 ## About
 This project was developed using JavaFX to hone Java GUI development skills while recreating the nostalgic experience.
