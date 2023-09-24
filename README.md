@@ -12,8 +12,9 @@ This project was developed using JavaFX to hone Java GUI development skills whil
 
 1. Clone this repository to your local machine.
 
-    `git clone https://github.com/KBluelvl/snake.git`
-  
+    ```
+    git clone https://github.com/KBluelvl/snake.git
+    ```
 2. Open your preferred integrated development environment (IDE). I recommend using IntelliJ IDEA.
 3. Run the `main.java` file to start the game.
 4. Use arrow keys to guide the snake and collect apples.
